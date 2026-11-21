@@ -1,0 +1,5 @@
+.venv/
+dataset/
+models/checkpoints/best_model.pth
+__pycache__/
+*.pyc
